@@ -18,7 +18,7 @@
         <type>Text</type>
     </nameField>
     <pluralLabel>Bicycles</pluralLabel>
-    <searchLayouts />
+    <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
 </CustomObject>
